@@ -1,2 +1,4 @@
 # Bi-xlstm-QeoGNN
-predict molecular property using QeoGNN
+Using a QeoGNN to predict property of various molecules.
+
+Run train_multi.py to reproduce the results in the paper.
